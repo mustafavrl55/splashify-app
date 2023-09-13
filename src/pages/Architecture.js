@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useContext, useEffect } from "react";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
